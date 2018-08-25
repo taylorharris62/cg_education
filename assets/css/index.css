@@ -415,7 +415,7 @@
   }
 
 }
-@media(max-width: 1900px) {
+@media(min-width: 1900px) {
   #slideshow {
     margin-left: 22%;
   }
